@@ -110,5 +110,12 @@
         "shortDescription": "A creative conspiracy - we deliver network services to on-chain governed blockchains through the applied research & development of tools, processes and projects that release the creative potential of connected minds.",
         "longDescription": "We provide network services to public blockchains - sourcing, developing and supporting creative talent both inside and outside the Kusama ecosystem - check out website [here](https://decent.partners). We have kickstarted, coordinated and delivered over 25 on-chain projects in [Edgeware](https://forum.polkadot.network/t/re-introducing-edgeware-substrates-most-chaotic-governance-experiment-and-second-oldest-mainnet/500), Substrate's second oldest mainnet including the development of [Kabocha](https://kabocha.network) the _media lab of Kusama_ that was created entirely through interlinked on-chain proposals. Our experience is rooted in building global on-line communities across early, mid and late state social networks, co-founding [Copa90](https://copa90.com), leading [Guardian Media Group](https://www.theguardian.com/gmg), [Comic Relief](https://www.comicrelief.com/) and [Virgin Unite](https://unite.virgin.com/), running largescale crypto-currency mining operations and listed companies alongside working with clients such as BBC, Channel 4, Nike, Red Bull, Spotify and Apple Music",
         "isOrganization": true
-     }
+     },
+     {
+         "address": "Hf8C626KBAjitMV7w8AhQWDCiPgUU47htEwbomq5mDMKeyL",
+         "name": "bLd",
+         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/bLd.png",
+         "shortDescription": "Web3 buildooor @ Astar Network & validator",
+         "longDescription": "## About bLd\n\nDevops engineer at [Astar Network](https://astar.network) \n\nValidator at [bLd Nodes](https://bldnodes.org) \n\nMember of [DOT Validator Alliance DAO](https://dotvalidators.org) \n\nOrganizer at [ParisDotComm](https://parisdotcomm.org) \n\nCurator for [IBP program](https://ibp.network) \n\n---\n\nVoting constantly with conviction, I believe governance is the affair of everyone and public blockchain is a common good.\nMy votes represent my personal opinions, not in any case the views of any of my organisations.\nI happily explain my votes to anyone reaching and change my vote when I'm proved mistaken.  \n\n## Contact \n\n@[Twitter](https://twitter.com/bLd77) @bLd77 \n\n@[Telegram](https://t.me/bLd759) @bLd759 \n\n@[Github](https://github.com/bLd75) @bLd75",
+         "isOrganization": false
 ]
